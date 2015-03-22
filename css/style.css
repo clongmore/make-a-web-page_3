@@ -1,0 +1,14 @@
+div.TOC { 
+    background-color: beige;
+}
+h1 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+a:link {
+color: red;
+}
+a:visited {
+color: blue;
+}
